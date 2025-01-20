@@ -1,10 +1,10 @@
 **Housing Prices Kaggle Competition**  
 #have to work on   
- -feature scaling  
+ -feature engineering 
  -categorical data handling  
- -different models accuracy
+ -different models implementation
     
 #insights/learnings   
- -data cleaning     
+ -data cleaning,missing vals     
  -visual plot analysis   
  -randomforest hyperparameters -n_estimators
