@@ -1,8 +1,8 @@
-Housing Prices Kaggle Competition  
--have to work on   
+**Housing Prices Kaggle Competition**  
+#have to work on   
  -feature scaling  
  -categorical data handling  
  -different models accuracy    
--insights/learnings   
+#insights/learnings   
  -data cleaning     
  -visual plot analysis   
